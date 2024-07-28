@@ -31,7 +31,15 @@ public class test_example {
 	}
 	
 	
+boolean exam(String password) {
+		
+		if (password != null ) {
+			return true;
+			
+		}else 
+			return false;
 	
+	}
 	
 	
 	
